@@ -1,0 +1,3 @@
+hellolucy.io = Z240OUQMI7DHPU
+
+elly.ai = Z2S4BDD03WFALM

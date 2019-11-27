@@ -1,0 +1,12 @@
+{
+  "Comment": "CREATE a record ",
+  "Changes": [{
+    "Action": "CREATE",
+    "ResourceRecordSet": {
+      "ResourceRecords": [{"Value": "104.196.157.183"}],
+      "Type": "A",
+      "Name": "share.hellolucy.io.",
+      "TTL": 300
+    }
+  }]
+}
